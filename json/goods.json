@@ -1,0 +1,23 @@
+[
+	{"id":"1", "wd":"APL", "name":"苹果", "description":"每天吃一个保证远离医生！", "price":"12", "hot":"90", "hlb":"0", "vc":"2", "ys":"0", "jia":"1", "qws":"2"},
+    {"id":"2", "wd":"AVC", "name":"鳄梨", "description":"好吃的鳄梨酱！", "price":"16", "hot":"90", "hlb":"0", "vc":"1", "ys":"1", "jia":"1", "qws":"2"},
+    {"id":"3", "wd":"BAN", "name":"香蕉", "description":"容易剥皮且含有丰富的维生素钾。", "price":"4", "hot":"120", "hlb":"0", "vc":"2", "ys":"1", "jia":"2", "qws":"2"},
+    {"id":"4", "wd":"CTP", "name":"哈密瓜", "description":"美味提神。", "price":"3", "hot":"50", "hlb":"4", "vc":"4", "ys":"1", "jia":"2", "qws":"0"},
+    {"id":"5", "wd":"FIG", "name":"无花果", "description":"不但有营养，且美味。", "price":"10", "hot":"100", "hlb":"0", "vc":"0", "ys":"0", "jia":"1", "qws":"2"},
+    {"id":"6", "wd":"GRF", "name":"葡萄柚", "description":"粉红和红色，健康且美味。", "price":"11", "hot":"50", "hlb":"4", "vc":"4", "ys":"1", "jia":"1", "qws":"1"},
+    {"id":"7", "wd":"GRP", "name":"葡萄", "description":"酒是伟大的，但葡萄更美好。", "price":"8", "hot":"100", "hlb":"0", "vc":"3", "ys":"0", "jia":"1", "qws":"1"},
+    {"id":"8", "wd":"GUA", "name":"番石榴", "description":"异国情调的，芬芳的，美味的！", "price":"8", "hot":"50", "hlb":"4", "vc":"4", "ys":"0", "jia":"1", "qws":"2"},
+    {"id":"9", "wd":"KIW", "name":"猕猴桃", "description":"来自新西兰的美味。", "price":"14", "hot":"90", "hlb":"1", "vc":"4", "ys":"0", "jia":"2", "qws":"2"},
+    {"id":"10", "wd":"LYC", "name":"荔枝", "description":"爱不释口。", "price":"18", "hot":"125", "hlb":"1", "vc":"4", "ys":"0", "jia":"2", "qws":"2"},
+    {"id":"11", "wd":"MAN", "name":"芒果", "description":"不管吃起来有多费劲，但却总是值得的。", "price":"8", "hot":"70", "hlb":"3", "vc":"4", "ys":"0", "jia":"1", "qws":"1"},
+    {"id":"12", "wd":"ORG", "name":"橙子", "description":"富含维生素C，做点果汁吧。", "price":"9", "hot":"70", "hlb":"1", "vc":"4", "ys":"2", "jia":"1", "qws":"2"},
+    {"id":"13", "wd":"PAP", "name":"番木瓜", "description":"超级流行的早餐。", "price":"5", "hot":"60", "hlb":"3", "vc":"4", "ys":"2", "jia":"2", "qws":"2"},
+    {"id":"14", "wd":"PCH", "name":"桃子", "description":"添加一些奶油更是美味。", "price":"19", "hot":"70", "hlb":"1", "vc":"2", "ys":"0", "jia":"1","qws":"2"},
+    {"id":"15", "wd":"PER", "name":"梨", "description":"新鲜美味，梨汁可在红酒中烹制，或蒸馏梨水。", "price":"8", "hot":"100", "hlb":"0", "vc":"2", "ys":"0", "jia":"1", "qws":"2"},
+    {"id":"16", "wd":"PMG", "name":"石榴", "description":"美味的，健康的，美丽的！", "price":"19", "hot":"110", "hlb":"0", "vc":"2", "ys":"0", "jia":"2", "qws":"0"},
+    {"id":"17", "wd":"PNP", "name":"菠萝", "description":"尽情美味吧（但不要忘了剥皮）。", "price":"4", "hot":"60", "hlb":"0", "vc":"3", "ys":"0", "jia":"0", "qws":"1"},
+    {"id":"18", "wd":"PSM", "name":"柿子", "description":"它们是浆果，你信吗？", "price":"6", "hot":"120", "hlb":"4", "vc":"3", "ys":"0", "jia":"1", "qws":"3"},
+    {"id":"19", "wd":"STR", "name":"草莓", "description":"美丽，健康，美味。", "price":"7", "hot":"40", "hlb":"0", "vc":"4", "ys":"1", "jia":"1", "qws":"2"},
+    {"id":"20", "wd":"TNG", "name":"柑橘", "description":"容易剥皮的橙子。", "price":"8", "hot":"50", "hlb":"3", "vc":"4", "ys":"1", "jia":"1", "qws":"2"},
+    {"id":"21", "wd":"WML", "name":"西瓜", "description":"炎热夏日来一块。", "price":"4", "hot":"90", "hlb":"4", "vc":"4", "ys":"0", "jia":"1", "qws":"1"}
+]

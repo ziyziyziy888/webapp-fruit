@@ -1,0 +1,26 @@
+header #logo{
+	width: 140px;
+}
+header .logoBox p{
+	height: 100%;
+	line-height: 70px;
+	margin: 0;
+}
+a{cursor: pointer;}
+.noP{padding: 0;}
+
+.buttonBox.detail button{
+	margin-bottom: 10px;
+}
+
+.buttonBox.b p{
+	display: inline-block;
+}
+.buttonBox.b p span{
+	display: inline-block;
+	width: 100px;
+}
+
+.smallM{
+	margin-bottom: 10px;
+}

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html ng-app="myapp">
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" type="text/css" href="bootstrap/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="css/style.css"/>
+	</head>
+	<body ng-controller="myController">
+		<header class="container-fluid" >
+			<h1 class="panel panel-primary">
+				<div class="panel-body logoBox">
+					<img id="logo" src="img/logo.jpg"/>
+					<span>千锋</span>
+					<p ng-hide="isLogin" class="pull-right small">
+						<a href="#/login">登陆</a>
+						<a href="#/register">注册</a>
+					</p>
+					<p ng-show="isLogin" class="pull-right small">
+						欢迎<span ng-bind="userID"></span>回来！
+						<button ng-click="exit()" class="btn btn-default">退出登陆</button>
+					</p>
+				</div>
+			</h1>
+		</header>
+		<section ng-view class="container-fluid">
+			
+		</section>
+		
+		
+		
+		<script src="baseJS/angular.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="baseJS/angular-route.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="baseJS/jquery-1.11.1.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/app.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/service.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/controller.js" type="text/javascript" charset="utf-8"></script>
+	</body>
+</html>
